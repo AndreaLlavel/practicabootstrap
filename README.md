@@ -1,2 +1,2 @@
 # practicabootstrap
-practicas
+<b> REPOSITORIO CREADO PARA REALIZAR PRACTICAS </b>
